@@ -1,0 +1,9 @@
+kalo udah klik submit, lakukan update
+TABEL KEHADIRAN UJIAN
+
+sehingga tombolnya disable
+
+if kehadiran_ujian_1 = 1, then echo "disabled"
+
+untuk soal
+if jawaban a == kunci then point 5
